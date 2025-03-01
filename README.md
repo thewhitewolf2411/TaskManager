@@ -2,6 +2,10 @@
 
 Task Manager API is a RESTful service for managing tasks, users, and authentication. It is built using **Node.js, Express, PostgreSQL, and TypeScript**, with authentication handled via **JWT (public/private key encryption)**.
 
+## Swagger Docs
+
+Swagger UI is available at http://localhost:5000/docs.
+
 ## Features
 
 - **User Authentication** (Login, Register, Logout with JWT-based authentication)
@@ -32,7 +36,3 @@ DB_PORT=
 
 PUB_KEY=
 PRIV_KEY=
-
-## Swagger Docs
-
-Swagger UI is available at http://localhost:5000/docs.
