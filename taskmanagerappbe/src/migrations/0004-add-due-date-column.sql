@@ -1,0 +1,2 @@
+ALTER TABLE "task".task_list 
+ADD COLUMN due_date TIMESTAMP WITH TIME ZONE;

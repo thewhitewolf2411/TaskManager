@@ -1,0 +1,6 @@
+./taskmanagerappbe/node_modules
+./taskmanagerappbe/.env
+
+
+./taskmanagerappfe/node_modules
+./taskmanagerappfe/.env
