@@ -33,4 +33,6 @@ DB_PORT=
 PUB_KEY=
 PRIV_KEY=```
 
+## Swagger Docs
+
 Swagger UI is available at http://localhost:5000/docs.
