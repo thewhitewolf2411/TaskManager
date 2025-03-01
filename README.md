@@ -31,7 +31,7 @@ DB_PASSWORD=
 DB_PORT=
 
 PUB_KEY=
-PRIV_KEY=```
+PRIV_KEY=
 
 ## Swagger Docs
 
